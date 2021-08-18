@@ -1,0 +1,6 @@
+{
+  "branches": [
+    "main" // Or main for new GitHub repo.
+  ],
+  "ci": false
+}
